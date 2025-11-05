@@ -1,0 +1,37 @@
+body{
+    background-color: #ADD8E6;
+    margin: 0;
+}
+
+#main-div{
+    background: #FFFFFF;
+    width: 70%;
+    height: 600px;
+    margin-left: 15%;
+
+}
+
+#name{
+    color: #ADD8E6;
+    text-align: center;
+    border: 6px solid #ADD8E6;
+    margin-top: 10px;
+    padding: 10px;
+    font: 'serif';
+    font-size: 48px;
+    font-weight: 700;
+}
+
+hr{
+    width: 90%;
+    margin-left: 5%;
+}
+image{
+    width : 200px;
+    height : 200px;
+}
+
+
+h1{
+    color: #333333;
+}
